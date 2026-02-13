@@ -1,0 +1,22 @@
+Práctica Git y GitHub - Trabajo Colaborativo (Simulado)
+
+Equipo: Fénix
+
+Integrantes:
+- Emiliano Sauz García
+
+Descripción:
+Este documento describe el flujo de trabajo utilizado para simular
+un proyecto colaborativo usando Git y GitHub.
+
+Flujo de trabajo:
+1. Creación del repositorio en GitHub.
+2. Clonación del repositorio en local.
+3. Creación de una rama por equipo.
+4. Realización de cambios en la rama.
+5. Confirmación de cambios mediante commits.
+6. Envío de la rama al repositorio remoto.
+7. Creación y aprobación de un Pull Request.
+
+Conclusión:
+Git y GitHub permiten trabajar en equipo de manera ordenada y segura.
