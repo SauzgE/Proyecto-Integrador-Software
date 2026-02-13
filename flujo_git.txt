@@ -20,3 +20,8 @@ Flujo de trabajo:
 
 Conclusión:
 Git y GitHub permiten trabajar en equipo de manera ordenada y segura.
+
+
+Observaciones:
+La práctica fue realizada de manera individual simulando
+un equipo de trabajo colaborativo.
