@@ -1,0 +1,2 @@
+Este archivo se agregó en una rama distinta
+para demostrar la creación y fusión de un Pull Request.
